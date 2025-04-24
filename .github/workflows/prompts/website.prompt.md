@@ -6,7 +6,7 @@ Create a single-page static HTML website for Pranesh AI that reflects a professi
 ## Brand Identity
 - **Company Name**: Pranesh AI
 - **Name Etymology**: "Pranesh" derives from Sanskrit terms "Prana" (life force/vital energy) and "Esh" (lord/master), conveying "Master of Vital Energy"
-- **Logo**: Located at `img/logo.png`
+- **Logo**: Located at `/img/logo.png`
 - **Brand Values**: Innovation, Efficiency, Intelligence, Transformation
 
 ## Technical Requirements
