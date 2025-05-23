@@ -1,0 +1,29 @@
+# Robots.txt for Pranesh AI
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://praneshai.com/sitemap.xml
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Block access to sensitive directories (if any exist)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /node_modules/
+
+# Allow all common bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

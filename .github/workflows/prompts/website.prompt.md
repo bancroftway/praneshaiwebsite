@@ -1,7 +1,9 @@
 # Professional Website Development Specification: Pranesh AI
 
 ## Objective
-Create a single-page static HTML website for Pranesh AI that reflects a professional, minimalistic, and modern aesthetic. The design should convey innovation, technological expertise, and the company's AI-first philosophy.
+Create a colorful, fun, static HTML website for Pranesh AI that reflects a professional, minimalistic, and modern aesthetic. Feel free to use diagrams and illustrations. The design should convey cutting-edge innovation, technological expertise, yet minimalism and simplicity and highlight the company's AI-first philosophy.
+Use latest design trends and best practices. Utilize all the prevailing SEO techniques, best-practices to ensure the website is optimized for search engines. 
+Always use the current code and update/improve it; do not start from scratch.
 
 ## Brand Identity
 - **Company Name**: Pranesh AI
@@ -72,5 +74,14 @@ Create an engaging section that attracts talent interested in AI innovation:
 - Imagery: Use abstract tech/AI-related imagery that complements the written content
 - Responsive Elements: Ensure navigation transforms appropriately for touch interfaces and smaller screens
 
+
+### Products
+- **NOVA**: NOVA is a structured framework and a process for AI-driven code generation as opposed to outcome oriented vibe coding. Without the use of a framework such as NOVA, the generated code is often not maintainable, may have vulnerabilities, does not follow enterprise coding standards or guidelines, and often attempts to re-invent code instead of utilizing pre-built libraries. Also, the code may not be secure and may not pass code scans. NOVA can utilize existing a customer's existing architecture guidelines, technical standards, specific tool-chains as well as templates to generate code that stays within the established technical guardrails.
+
+  NOVA first analyzes the existing codebase thoroughly to understand the architecture, layout, database entities, infrastructure, and list of software modules and their inter-dependencies. It then takes user requirements and based on it's understanding of the codebase, generates a detailed specification as well as UI wireframes for the changes it proposes to make. It keeps human in the loop and if the human has any feedback or wants a change at this stage, it can be easily provided to NOVA, which will then update the spec and wireframes. Only after the human provides the go-ahead, NOVA proceeds to generate code as per the specification, and will mark each step of the spec as complete as it goes along. NOVA generates tests for each code module that it generates. This way NOVA does not forget any of the steps it is supposed to execute. Finally NOVA runs verification steps to make sure the generated code matches the spec and the wireframes. NOVA also performs a compilation of the code and will self-correct any compile-time errors or warnings, resulting in code that will have 0 warnings or errors. Then NOVA will subject the code to stringent static and dynamic code vulnerability scans, and will address any issues that are found. This results in code that is secure and free from exploitable vulnerabilities. Finally NOVA will run a suite of unit and integration tests to assure reliable, error free software product. NOVA also updates any learnings it might have encountered during this entire cycle and updates it's own instructions, resulting in an self-learning and self-improving system.
+  Refer to #file:../../docs/nova_sales_pitch.html for a Sales Pitch for NOVA.
+
+
 ## Deliverables
 A complete, optimized static website with all assets properly organized and source files included. Site must be thoroughly tested across multiple devices and browsers to ensure responsive design integrity.
+
